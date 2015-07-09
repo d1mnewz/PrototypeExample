@@ -1,0 +1,5 @@
+c:\users\zhluktenko\OneDrive\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\bin\Debug\PrototypeExample.exe.config
+c:\users\zhluktenko\OneDrive\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\bin\Debug\PrototypeExample.exe
+c:\users\zhluktenko\OneDrive\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\bin\Debug\PrototypeExample.pdb
+c:\users\zhluktenko\OneDrive\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.exe
+c:\users\zhluktenko\OneDrive\Visual Studio 2012\Projects\PrototypeExample\PrototypeExample\obj\Debug\PrototypeExample.pdb
